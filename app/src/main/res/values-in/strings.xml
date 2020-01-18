@@ -1,0 +1,150 @@
+<resources>
+    <string name="app_name">Submission 1</string>
+    <string name="header_main">Katalog Film &amp; Serial TV</string>
+    <string name="header_detail">Detail</string>
+    <string name="lorem">Lorem Ipsum</string>
+    <string name="label_description">Deskripsi</string>
+    <string name="label_user_score">Skor Pengguna</string>
+    <string name="label_runtime">Durasi</string>
+    <string name="img_description_poster">Poster Film</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Serial Tv</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+    <string-array name="data_name">
+        <item>Avengers: Infinity War</item>
+        <item>Solo: A Star Wars Story</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>Aquaman</item>
+        <item>T-34</item>
+        <item>Jurassic Galaxy</item>
+        <item>Deadpool 2</item>
+        <item>Black Panther</item>
+        <item>Venom</item>
+        <item>Green Book</item>
+        <item>Bohemian Rhapsody</item>
+    </string-array>
+
+    <string-array name="data_user_score">
+        <item>83</item>
+        <item>66</item>
+        <item>84</item>
+        <item>68</item>
+        <item>55</item>
+        <item>37</item>
+        <item>75</item>
+        <item>74</item>
+        <item>66</item>
+        <item>83</item>
+        <item>80</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item> Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan yang tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala sesuatu yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih tidak pasti. </item>
+            
+        <item> Melalui serangkaian petualangan berani jauh di dalam dunia kriminal yang gelap dan berbahaya, Han Solo bertemu dengan kopilot Chewbacca masa depannya yang perkasa dan bertemu dengan penjudi terkenal Lando Calrissian. </item>
+        <item> Miles Morales menyulap hidupnya antara menjadi siswa sekolah menengah dan menjadi manusia laba-laba. Saat Wilson "Kingpin" Fisk menggunakan collider super, yang lain dari seluruh Spider-Verse diangkut ke dimensi ini. </item>
+        <item> Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan dunia. Yang menghalangi jalannya adalah Arthur Curry, setengah manusia setengah manusia, saudara setengah Atlantis dan pewaris sejati takhta. </item>
+        <item>Pada tahun 1944, sekelompok tentara Rusia yang berani berhasil melarikan diri dari penawanan Jerman di tank T-34 legendaris yang setengah hancur. Itu adalah masa-masa keberanian yang tak terlupakan, pertarungan sengit, cinta yang tak terpatahkan, dan keajaiban legendaris.</item>
+            
+        <item> Dalam waktu dekat, sebuah kapal penjelajah luar angkasa mendarat di planet yang tidak dikenal. Mereka segera bertemu dengan beberapa ketakutan terburuk mereka ketika mereka menemukan bahwa planet ini dihuni oleh dinosaurus raksasa. </item>
+        <item> Deadpool tentara bayaran Wisecracking bertarung melawan Cable jahat dan kuat dan orang jahat lainnya untuk menyelamatkan hidup anak laki-laki. </item>
+        <item> Raja T Challa pulang dari Amerika ke negara Afrika Wakanda yang tertutup dan berteknologi maju untuk melayani sebagai pemimpin baru negaranya. Namun, T \'Challa segera menemukan bahwa ia ditantang untuk naik takhta oleh faksi di negaranya sendiri maupun di luar. Menggunakan kekuatan yang disediakan untuk raja-raja Wakandan, T\'Challa mengasumsikan mantel Black Panther untuk bergabung dengan pacar Nakia, ibu-ratu, saudara perempuan-anak kandungnya, anggota Dora Milaje (pasukan khusus \' pasukan Wakandan \') dan Agen rahasia Amerika, untuk mencegah Wakanda terseret ke dalam perang dunia. </item>
+        <item> Wartawan investigasi Eddie Brock mencoba kembali setelah skandal, tetapi secara tidak sengaja menjadi tuan rumah Venom, seorang simbiot alien yang sangat kuat dan sakti. Segera, ia harus mengandalkan kekuatan barunya untuk melindungi dunia dari organisasi bayangan yang mencari simbiosis mereka sendiri. </item>
+        <item> Tony Lip, seorang penjaga pintu pada tahun 1962, disewa untuk mengusir pianis Don Shirley dalam tur melalui Deep South pada hari-hari ketika orang Afrika-Amerika, terpaksa menemukan akomodasi dan layanan alternatif karena undang-undang pemisahan di bawah Garis Mason-Dixon, bergantung pada panduan yang disebut Buku Hijau Negro Motorist. </item>
+         
+        <item> Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris John Deacon mengambil dunia musik dengan badai ketika mereka membentuk band rock Queen Rock pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercury yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk menjaga band tetap bersama di tengah kesuksesan dan kelebihan. </item>
+    </string-array>
+
+    <string-array name="data_runtime">
+        <item>2j 29m</item>
+        <item>2j 15m</item>
+        <item>1j 57m</item>
+        <item>2j 24m</item>
+        <item>2j 19m</item>
+        <item>1j 16m</item>
+        <item>2j 1m</item>
+        <item>2j 14m</item>
+        <item>1j 52m</item>
+        <item>2j 10m</item>
+        <item>2j 15m</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/poster_avengers</item>
+        <item>@drawable/poster_star_wars</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_t34</item>
+        <item>@drawable/poster_jurassic</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_black_panther</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_green_book</item>
+        <item>@drawable/poster_bohemian</item>
+    </array>
+
+    <string-array name="data_tv_name">
+        <item>Legacies</item>
+        <item>The Resident</item>
+        <item>Titans</item>
+        <item>Manifest</item>
+        <item>YOU</item>
+        <item>9-1-1</item>
+        <item>Burden of Truth</item>
+        <item>FBI</item>
+        <item>Lost in Space</item>
+        <item>The Rookie</item>
+    </string-array>
+
+    <string-array name="data_tv_user_score">
+        <item>79</item>
+        <item>79</item>
+        <item>77</item>
+        <item>73</item>
+        <item>78</item>
+        <item>74</item>
+        <item>68</item>
+        <item>72</item>
+        <item>71</item>
+        <item>74</item>
+    </string-array>
+
+    <string-array name="data_tv_description">
+        <item> Di tempat penyihir muda, vampir, dan manusia serigala diasuh untuk menjadi diri terbaik mereka terlepas dari impuls terburuk mereka, putri Klaus Mikaelson, Hope Mikaelson, 17 tahun, kembar Alaric Saltzman, Lizzie dan Josie Saltzman, di antaranya yang lain, tumbuh menjadi pahlawan dan penjahat di The Salvatore School for the Young and Gifted. </item>   
+        <item> Seorang residen senior yang tangguh dan cemerlang memandu seorang dokter muda yang idealis melewati hari pertamanya, menarik kembali tirai tentang apa yang sebenarnya terjadi, baik dan buruk, dalam kedokteran modern. </item> 
+        <item> Tim pahlawan super muda yang dipimpin oleh Nightwing (sebelumnya Robin pertama Batman) terbentuk untuk memerangi kejahatan dan bahaya lainnya. </item>
+        <item> Setelah mendarat dari penerbangan yang bergolak tetapi rutin, para kru dan penumpang Montego Air Penerbangan 828 menemukan lima tahun telah berlalu dalam waktu yang terasa seperti beberapa jam. Saat realitas baru mereka menjadi jelas, sebuah misteri yang lebih dalam terungkap dan beberapa penumpang yang kembali segera menyadari bahwa mereka mungkin dimaksudkan untuk sesuatu yang lebih besar daripada yang pernah mereka bayangkan mungkin terjadi. </item> 
+        <item> Ketika seorang manajer toko buku yang brilian bertemu dengan seorang penulis yang bercita-cita tinggi, ia menggunakan internet dan media sosial untuk mengumpulkan detail paling intim dan mendekatinya. Naksir yang menawan dan canggung dengan cepat menjadi obsesi saat ia dengan tenang dan strategis menyingkirkan setiap rintangan - dan orang - di jalannya. </item>   
+        <item> Jelajahi pengalaman tekanan tinggi dari petugas polisi, paramedis, dan petugas pemadam kebakaran yang didorong ke dalam situasi yang paling menakutkan, mengejutkan, dan mengejutkan. Para responden darurat ini harus berusaha menyeimbangkan menyelamatkan mereka yang paling rentan dengan penyelesaian masalah dalam kehidupan mereka sendiri. </item>   
+        <item> Pengacara kota besar kembali ke kota asalnya untuk mengambil kasus sekelompok gadis yang menderita penyakit misterius. </item>    
+        <item> Unit elit kantor FBI New York membawa semua bakat, kecerdasan, dan keahlian teknis mereka pada kasus-kasus besar untuk menjaga agar New York dan negara aman. </item>        
+        <item> Setelah pendaratan di planet asing, keluarga Robinson berjuang melawan segala rintangan untuk bertahan hidup dan melarikan diri. Tapi mereka dikelilingi oleh bahaya tersembunyi. </item>
+        <item> Memulai dari awal bukanlah hal yang mudah, terutama bagi pria kota kecil John Nolan yang, setelah insiden yang mengubah hidup, mengejar mimpinya menjadi petugas LAPD. Sebagai rookie tertua pasukan, ia bertemu dengan skeptis dari beberapa atasan yang melihatnya hanya sebagai krisis paruh baya berjalan. </item>
+    </string-array>
+
+    <string-array name="data_tv_runtime">
+        <item>43m</item>
+        <item>42m</item>
+        <item>43m</item>
+        <item>42m</item>
+        <item>46m</item>
+        <item>45m</item>
+        <item>45m</item>
+        <item>43m</item>
+        <item>56m</item>
+        <item>43m</item>
+    </string-array>
+
+    <array name="data_tv_photo">
+        <item>@drawable/poster_legacies</item>
+        <item>@drawable/poster_resident</item>
+        <item>@drawable/poster_titans</item>
+        <item>@drawable/poster_manifest</item>
+        <item>@drawable/poster_you</item>
+        <item>@drawable/poster_911</item>
+        <item>@drawable/poster_burden</item>
+        <item>@drawable/poster_fbi</item>
+        <item>@drawable/poster_lost</item>
+    </array>
+</resources>

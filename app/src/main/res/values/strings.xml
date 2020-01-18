@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">Submission 2</string>
+    <string name="header_main">Movie &amp; Tv Show Catalogue</string>
+    <string name="header_detail">Detail</string>
+    <string name="lorem">Lorem Ipsum</string>
+    <string name="label_description">Description</string>
+    <string name="label_user_score">User Score</string>
+    <string name="label_runtime">Runtime</string>
+    <string name="img_description_poster">Movie Poster</string>
+    <string name="tab_text_1">Movie</string>
+    <string name="tab_text_2">Tv Show</string>
+    <string name="change_language_settings">Change Language Setting</string>
+
+    <string-array name="data_name">
+        <item>Avengers: Infinity War</item>
+        <item>Solo: A Star Wars Story</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>Aquaman</item>
+        <item>T-34</item>
+        <item>Jurassic Galaxy</item>
+        <item>Deadpool 2</item>
+        <item>Black Panther</item>
+        <item>Venom</item>
+        <item>Green Book</item>
+        <item>Bohemian Rhapsody</item>
+    </string-array>
+
+    <string-array name="data_user_score">
+        <item>83</item>
+        <item>66</item>
+        <item>84</item>
+        <item>68</item>
+        <item>55</item>
+        <item>37</item>
+        <item>75</item>
+        <item>74</item>
+        <item>66</item>
+        <item>83</item>
+        <item>80</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.</item>
+        <item>Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson "Kingpin" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>In 1944, a courageous group of Russian soldiers managed to escape from German captivity in a half-destroyed legendary T-34 tank. Those were the times of unforgettable bravery, fierce fighting, unbreakable love, and legendary miracles.</item>
+        <item>In the near future, a ship of space explorers crash land on an unknown planet. They\'re soon met with some of their worst fears as they discover the planet is inhabited by monstrous dinosaurs.</item>
+        <item>Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy\'s life.</item>
+        <item>King T\'Challa returns home from America to the reclusive, technologically advanced African nation of Wakanda to serve as his country\'s new leader. However, T\'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T\'Challa assumes the Black Panther mantel to join with girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan \'special forces\') and an American secret agent, to prevent Wakanda from being dragged into a world war.</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.</item>
+        <item>Tony Lip, a bouncer in 1962, is hired to drive pianist Don Shirley on a tour through the Deep South in the days when African Americans, forced to find alternate accommodations and services due to segregation laws below the Mason-Dixon Line, relied on a guide called The Negro Motorist Green Book.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock \'n\' roll band Queen in 1970. Hit songs become instant classics. When Mercury\'s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.</item>
+    </string-array>
+
+    <string-array name="data_runtime">
+        <item>2h 29m</item>
+        <item>2h 15m</item>
+        <item>1h 57m</item>
+        <item>2h 24m</item>
+        <item>2h 19m</item>
+        <item>1h 16m</item>
+        <item>2h 1m</item>
+        <item>2h 14m</item>
+        <item>1h 52m</item>
+        <item>2h 10m</item>
+        <item>2h 15m</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/poster_avengers</item>
+        <item>@drawable/poster_star_wars</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_t34</item>
+        <item>@drawable/poster_jurassic</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_black_panther</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_green_book</item>
+        <item>@drawable/poster_bohemian</item>
+    </array>
+
+    <string-array name="data_tv_name">
+        <item>Legacies</item>
+        <item>The Resident</item>
+        <item>Titans</item>
+        <item>Manifest</item>
+        <item>YOU</item>
+        <item>9-1-1</item>
+        <item>Burden of Truth</item>
+        <item>FBI</item>
+        <item>Lost in Space</item>
+        <item>The Rookie</item>
+    </string-array>
+
+    <string-array name="data_tv_user_score">
+        <item>79</item>
+        <item>79</item>
+        <item>77</item>
+        <item>73</item>
+        <item>78</item>
+        <item>74</item>
+        <item>68</item>
+        <item>72</item>
+        <item>71</item>
+        <item>74</item>
+    </string-array>
+
+    <string-array name="data_tv_description">
+        <item>In a place where young witches, vampires, and werewolves are nurtured to be their best selves in spite of their worst impulses, Klaus Mikaelson’s daughter, 17-year-old Hope Mikaelson, Alaric Saltzman’s twins, Lizzie and Josie Saltzman, among others, come of age into heroes and villains at The Salvatore School for the Young and Gifted.</item>
+        <item>A tough, brilliant senior resident guides an idealistic young doctor through his first day, pulling back the curtain on what really happens, both good and bad, in modern-day medicine.</item>
+        <item>A team of young superheroes led by Nightwing (formerly Batman\'s first Robin) form to combat evil and other perils.</item>
+        <item>After landing from a turbulent but routine flight, the crew and passengers of Montego Air Flight 828 discover five years have passed in what seemed like a few hours. As their new realities become clear, a deeper mystery unfolds and some of the returned passengers soon realize they may be meant for something greater than they ever thought possible.</item>
+        <item>When a brilliant bookstore manager crosses paths with an aspiring writer, he uses the internet and social media to gather the most intimate of details and get close to her. A charming and awkward crush quickly becomes obsession as he quietly and strategically removes every obstacle - and person - in his way.</item>
+        <item>Explore the high-pressure experiences of police officers, paramedics and firefighters who are thrust into the most frightening, shocking and heart-stopping situations. These emergency responders must try to balance saving those who are at their most vulnerable with solving the problems in their own lives.</item>
+        <item>A big city lawyer returns to her hometown to take the case of a group of girls suffering from a mysterious illness.</item>
+        <item>The elite unit of the New York office of the FBI brings to bear all their talents, intellect and technical expertise on major cases in order to keep New York and the country safe.</item>
+        <item>After crash-landing on an alien planet, the Robinson family fights against all odds to survive and escape. But they\'re surrounded by hidden dangers.</item>
+        <item>Starting over isn’t easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force’s oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis.</item>
+    </string-array>
+
+    <string-array name="data_tv_runtime">
+        <item>43m</item>
+        <item>42m</item>
+        <item>43m</item>
+        <item>42m</item>
+        <item>46m</item>
+        <item>45m</item>
+        <item>45m</item>
+        <item>43m</item>
+        <item>56m</item>
+        <item>43m</item>
+    </string-array>
+
+    <array name="data_tv_photo">
+        <item>@drawable/poster_legacies</item>
+        <item>@drawable/poster_resident</item>
+        <item>@drawable/poster_titans</item>
+        <item>@drawable/poster_manifest</item>
+        <item>@drawable/poster_you</item>
+        <item>@drawable/poster_911</item>
+        <item>@drawable/poster_burden</item>
+        <item>@drawable/poster_fbi</item>
+        <item>@drawable/poster_lost</item>
+    </array>
+</resources>
